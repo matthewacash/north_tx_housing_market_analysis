@@ -1,5 +1,5 @@
 # North Texas Housing Market Analysis
-
+**Tools:** Python, Pandas, Power BI, GitHub
 ## Project Overview
 
 This project analyzes housing price trends across Collin, Dallas, and Denton counties and examines their relationship with inflation, mortgage rates, and unemployment from 1990–2025. Using Python for data preparation and Power BI for visualization, the project explores how macroeconomic indicators align with long-term housing market performance in North Texas.
