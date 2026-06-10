@@ -40,19 +40,25 @@ This project analyzes housing price trends across Collin, Dallas, and Denton cou
 
 Overview of housing price trends across Collin, Dallas, and Denton counties.
 
+![Housing Market Overview](images/page1_market_overview.png)
+
 ### Economic Indicators
 
 Analysis of inflation, mortgage rates, and unemployment trends.
+
+![Economic Indicators](images/page2_economic_indicators.png)
 
 ### Correlation Analysis
 
 Summary of statistical relationships between housing prices and economic indicators.
 
+![Correlation Analysis](images/page3_correlation_analysis.png)
+
 ### Executive Summary
 
 Key insights and conclusions from the analysis.
 
----
+![Executive Summary](images/page4_executive_summary.png)
 
 ## Tools & Technologies
 
@@ -61,8 +67,6 @@ Key insights and conclusions from the analysis.
 * Jupyter Notebook (Google Colab)
 * Power BI
 * GitHub
-
----
 
 ## Repository Structure
 
